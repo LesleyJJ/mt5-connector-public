@@ -197,7 +197,7 @@ The application includes comprehensive error handling:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright © 2025 LesleyJJ. All rights reserved.
 
 ## ⚠️ Disclaimer
 
