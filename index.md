@@ -2,6 +2,8 @@
 
 A comprehensive Python-based trading system that connects to MetaTrader 5 (MT5) terminal for automated trading operations, data synchronization, and technical analysis.
 
+![SMC Indicator Screenshot 1](image_1.png)
+
 ## 🚀 Features
 
 - **Real-time Trading**: Place buy/sell orders with automatic lot size calculation based on risk management
